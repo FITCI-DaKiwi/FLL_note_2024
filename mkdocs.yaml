@@ -1,0 +1,47 @@
+# Project Information
+site_name: FLL notes by DaKiwi
+site_author: DaKiwi
+site_description: >-
+  Notes collected for FLL by Team FITCI DaKiwi   
+
+# Repository
+repo_name: FITCI-DaKiwi/FLL_note
+repo_url: https://github.com/FITCI-DaKiwi/FLL_note.git 
+edit_uri: https://github.com/FITCI-DaKiwi/FLL_note/edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2024 DaKiwi
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/FITCI-DaKiwi
+
+# Page Tree
+nav:
+  - Project Overview:
+      - Innovation Project: innovation_project.md
+  - Meeting Notes: 
+      - Meeting Notes: meeting_note.md
+      - Homework: homework.md
+  - Robot Design:
+      - Robot Base: robot_base.md
+      - Robot Attachments: robot_attachment.md
+  Programming Notes:
+      - Code Documentation: code_doc.md
+      - Troubleshooting Note: trb_note.md
+  Competition Strategy:
+      - Tournament 
+      - Scoring Strategies: score_strategy.md
+      - Time Management: time_management.md
+
+  Team Roles & Responsibilities:
+  
