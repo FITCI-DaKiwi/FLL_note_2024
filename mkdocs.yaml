@@ -30,6 +30,7 @@ nav:
   - Introduction:
       - About: index.md
   - Project Overview:
+      - FLL challenge SUBMERGED: fll_challenge.md 
       - Innovation Project: innovation_project.md
   - Meeting Notes: 
       - Meeting Notes: meeting_note.md
