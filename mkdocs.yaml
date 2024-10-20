@@ -35,13 +35,13 @@ nav:
   - Robot Design:
       - Robot Base: robot_base.md
       - Robot Attachments: robot_attachment.md
-  Programming Notes:
+  - Programming Notes:
       - Code Documentation: code_doc.md
       - Troubleshooting Note: trb_note.md
-  Tournament Strategy:
+  - Tournament Strategy:
       - Tournament Info: tournament_info.md
       - Scoring Strategies: score_strategy.md
       - Time Management: time_management.md
-  Team Roles & Responsibilities:
+  - Team Roles & Responsibilities:
       - Team Roles: team_role.md
   
