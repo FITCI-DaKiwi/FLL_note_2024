@@ -27,6 +27,8 @@ extra:
 
 # Page Tree
 nav:
+  - Introduction:
+      - About: index.md
   - Project Overview:
       - Innovation Project: innovation_project.md
   - Meeting Notes: 
