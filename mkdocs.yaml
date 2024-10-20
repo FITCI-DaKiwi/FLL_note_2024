@@ -47,7 +47,8 @@ nav:
   - Team Roles & Responsibilities:
       - Team Roles: team_role.md
   - Resources: 
-      - Youtube channels/links: youtube_res.md
       - Books and Posts: book_post.md
       - Public GitHub repos: res_github_repo.md
+      - Vedios: youtube_res.md
+
   
