@@ -5,6 +5,9 @@
 Link to the tournament assignment: 
 [https://va-dcfll.org/2024-tournament-assignments/](https://va-dcfll.org/2024-tournament-assignments/)
 
+[https://marylandfll.org/qualifier-assignments/](https://marylandfll.org/qualifier-assignments/)
+
+
 
 ## Coaches’ Kickoff Conference 2024
 
