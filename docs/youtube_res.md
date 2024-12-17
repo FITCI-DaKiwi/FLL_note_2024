@@ -8,4 +8,4 @@
 
 [FLLshenanigans](https://www.youtube.com/@FLLshenanigans)
 
-
+[580 points team: 2:38:25](https://www.youtube.com/live/Dv8fsMpKFjg?si=gooUPGNxHTxqiCIo)
